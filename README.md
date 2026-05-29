@@ -10,11 +10,10 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+pnpm install next-sitemap
 # or
 bun dev
 ```
-
-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -38,8 +37,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
+git
 
-
-<!-- pnpm add framer-motion -->
-
-pnpm install react-icons
+d> 
+git add .                      
+ git commit -m "Update solutions page design , Favicon,responsive design"        
+git push
